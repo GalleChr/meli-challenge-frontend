@@ -33,7 +33,6 @@ Frontend:
 cd frontend
 yarn install
 yarn build
-yarn global add http-server
 yarn start
 ```
 
