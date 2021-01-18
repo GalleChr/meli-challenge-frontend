@@ -10,6 +10,9 @@ const axios = require("axios");
 
 // URLs para acceder a API de Mercado Libre.
 
+//Author
+const NAME = "Christian"
+const LASTNAME = "Gallelli"
 
 const API_URL = "https://api.mercadolibre.com";
 
@@ -118,8 +121,8 @@ const getCategories = function (filters) {
 
 const getAuthor = function () {
   return {
-    name: "Christian",
-    lastname: "Gallelli",
+    name: NAME,
+    lastname: LASTNAME,
   };
 };
 

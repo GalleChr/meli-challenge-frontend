@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* BREADCRUMB */
 .breadcrumb {
-  /* Para mejorar el contraste, seteo una escala de gris 1 en lugar de 3 como está en las especificaicones. */
+
   color: #333333;
   font-size: 0.875rem;
   /*14px*/
